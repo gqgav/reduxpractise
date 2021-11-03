@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Navbar from "./components/navbar";
 
 function App() {
   return (
@@ -8,5 +9,6 @@ function App() {
     </main>
   );
 }
+
 
 export default App;
